@@ -8,7 +8,6 @@ def sqrt(x):
 def main():
     print(sqrt(9))
     print(sqrt(2))
-    print(sqrt(2))
 
 if __name__=='__main__':
     main()
